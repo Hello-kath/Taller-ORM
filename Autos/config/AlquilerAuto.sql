@@ -1,3 +1,5 @@
+
+create database alquilerautos;
 use alquilerautos;
 
-select * from clientes;
+select * from autos;

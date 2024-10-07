@@ -1,5 +1,5 @@
 {
-  "name": "autos",
+  "name": "adopcion",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,13 +8,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.21.0",
-    "mongoose": "^8.7.0",
-    "mysql2": "^3.11.3",
-    "sequelize": "^6.37.3",
-    "sequelize-cli": "^6.6.2"
-  },
-  "description": ""
+    "mongoose": "^8.7.0"
+  }
 }

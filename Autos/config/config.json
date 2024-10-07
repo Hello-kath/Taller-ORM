@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "root",
-    "password": "CTPI2024*",
-    "database": "AlquilerAutos",
+    "password": "1234",
+    "database": "alquilerautos",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
